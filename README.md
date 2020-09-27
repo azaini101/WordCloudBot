@@ -6,7 +6,6 @@ A reddit bot that returns a word cloud of all your most used words in previous p
 
 The project was done entirely in Python and utilizes the following tools:
 - Imgur API: loads the photo onto Imgur
-  - To get started, head over to the [Twitter Developers](https://developer.twitter.com/en/apply-for-access) page and apply for access.
 - PRAW: The python reddit API wrapper; allows the bot to read its replies 
   
 # How to Use
